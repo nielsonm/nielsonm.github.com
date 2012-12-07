@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Open Source (Almost) Everything
+category: [Open source, FOSS, SFO, OS vs. proprietary]
+tags: [OSS, rant, foo, bar, baz]
 ---
 
 {{ page.title }}
